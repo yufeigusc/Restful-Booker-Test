@@ -53,11 +53,11 @@ The framework goes beyond simple CRUD tests, incorporating advanced scenarios su
 
 1.  **Clone the repository:**
     ```bash
-    git clone <your-github-repository-url>
+    git clone https://github.com/yufeigusc/Restful-Booker-Test.git
     ```
 2.  **Navigate to the project directory:**
     ```bash
-    cd <project-directory-name>
+    cd Restful-Booker-Test
     ```
 3.  The project is ready to run. Maven will handle downloading all the necessary dependencies.
 
