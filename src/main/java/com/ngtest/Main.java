@@ -1,4 +1,4 @@
-package com.sl;
+package com.ngtest;
 
 public class Main {
     public static void main(String[] args) {
