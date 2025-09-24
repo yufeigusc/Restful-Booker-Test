@@ -1,0 +1,10 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+
+<suite name="API Test Suite">
+    <test name="Booking Tests">
+        <classes>
+            <class name="com.ngtest.api.tests.BookingFilteringTests"/>
+            <class name="com.ngtest.api.tests.BookingLifecycleTests"/>
+        </classes>
+    </test>
+</suite>
